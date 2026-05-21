@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Mobile_App",
-    "slug": "Mobile_App",
+    "name": "AURA",
+    "slug": "aura",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
