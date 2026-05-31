@@ -6,7 +6,9 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "build:android": "npx eas build --platform android --profile preview",
+    "ci": "expo doctor --non-interactive"
   },
   "dependencies": {
     "@expo/metro-runtime": "~6.1.2",
@@ -20,5 +22,8 @@
     "react-native-svg": "15.12.1",
     "react-native-web": "^0.21.0"
   },
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "eas-cli": "^19.0.5"
+  }
 }
