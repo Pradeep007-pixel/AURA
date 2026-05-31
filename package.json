@@ -1,6 +1,11 @@
 {
   "name": "aura",
   "version": "1.0.0",
+  "description": "AURA is an Expo React Native productivity app with a Pomodoro timer, ambient soundscapes, and analytics dashboard.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pradeep007-pixel/AURA.git"
+  },
   "main": "index.js",
   "scripts": {
     "start": "expo start",

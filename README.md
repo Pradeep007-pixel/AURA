@@ -7,6 +7,8 @@
 
 AURA is a polished focus and productivity companion built with Expo and React Native. It combines a Pomodoro-inspired timer, ambient sound mixer, analytics, and customizable settings into a mobile-first experience.
 
+This repository contains the complete Expo source code for AURA, including timer logic, audio mixing, and performance tracking UI.
+
 ## 🚀 Key Features
 
 - **Focus Timer** with Focus, Short Break, and Long Break modes
